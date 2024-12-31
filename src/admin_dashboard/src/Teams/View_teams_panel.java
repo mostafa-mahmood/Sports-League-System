@@ -49,7 +49,7 @@ public class View_teams_panel extends javax.swing.JPanel {
         TeamsSelector.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "All Teams", "Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton", "Chelsea", "Crystal Palace", "Everton", "Fulham", "Liverpool", "Manchester City", "Manchester United", "Newcastle United", "Nottingham Forest", "Tottenham Hotspur", "West Ham United", "Wolverhampton Wanderers", "Leicester City", "Ipswich Town", "Southampton" }));
 
         Enter.setFont(new java.awt.Font("Segoe UI Variable", 1, 24)); // NOI18N
-        Enter.setText("Enter");
+        Enter.setText("View");
         Enter.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 EnterActionPerformed(evt);

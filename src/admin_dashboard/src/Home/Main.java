@@ -6,6 +6,8 @@ import Teams.Teams_main;
 import Matches.Matches_main;
 import Performance.Performance_main;
 import Players.Players_main;
+import Coaches.Coaches_main;
+import Achievements.Achievements_main;
 
 public class Main extends javax.swing.JFrame {
  
@@ -163,11 +165,12 @@ public class Main extends javax.swing.JFrame {
     }//GEN-LAST:event_MatchesActionPerformed
 
     private void CoachesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CoachesActionPerformed
-        // TODO add your handling code here:
+        Coaches_main panel = new Coaches_main();
+        switchPanel(panel);
     }//GEN-LAST:event_CoachesActionPerformed
 
     private void PlayersActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_PlayersActionPerformed
-        Players_main panel = new Players_main();
+        Players_main panel = new Players_main(this);
         switchPanel(panel);
     }//GEN-LAST:event_PlayersActionPerformed
 
@@ -177,7 +180,8 @@ public class Main extends javax.swing.JFrame {
     }//GEN-LAST:event_PerformanceActionPerformed
 
     private void AchievementsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_AchievementsActionPerformed
-        // TODO add your handling code here:
+        Achievements_main panel = new Achievements_main();
+        switchPanel(panel);
     }//GEN-LAST:event_AchievementsActionPerformed
     
     private void setMainPanel(){

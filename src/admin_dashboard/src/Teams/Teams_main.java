@@ -1,10 +1,7 @@
 package Teams;
 
-import java.awt.Window;
 import javax.swing.AbstractButton;
 import javax.swing.JComponent;
-import javax.swing.JPanel;
-import javax.swing.SwingUtilities;
 import Home.Main;
 
 public class Teams_main extends javax.swing.JPanel {
@@ -46,7 +43,7 @@ public class Teams_main extends javax.swing.JPanel {
         addTeam.setBounds(70, 210, 200, 70);
 
         modifyTeam.setFont(new java.awt.Font("Segoe UI Variable", 1, 18)); // NOI18N
-        modifyTeam.setText("Modify Team Info");
+        modifyTeam.setText("Update Team Points");
         modifyTeam.setBorder(null);
         modifyTeam.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         modifyTeam.addActionListener(new java.awt.event.ActionListener() {
