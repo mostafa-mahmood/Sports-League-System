@@ -1,0 +1,21 @@
+team_id,name,location,capacity,std_img
+1,Emirates Stadium,London,60704,static\stadiums\Emirates Stadium.jpg
+2,Villa Park,Birmingham,42785,static\stadiums\Villa Park.jpg
+3,Vitality Stadium,Bournemouth,11464,static\stadiums\Vitality Stadium.jpg
+4,Gtech Community Stadium,London,17250,static\stadiums\Gtech Community Stadium.jpg
+5,American Express Community Stadium,Brighton,31780,static\stadiums\American Express Community Stadium.jpg
+6,Stamford Bridge,London,40834,static\stadiums\Stamford Bridge.jpg
+7,Selhurst Park,London,26074,static\stadiums\Selhurst Park.jpg
+8,Goodison Park,Liverpool,39572,static\stadiums\Goodison Park.jpg
+9,Craven Cottage,London,25700,static\stadiums\Craven Cottage.jpg
+10,Anfield,Liverpool,53394,static\stadiums\Anfield.jpg
+11,Etihad Stadium,Manchester,55097,static\stadiums\Etihad Stadium.jpg
+12,Old Trafford,Manchester,74140,static\stadiums\Old Trafford.jpg
+13,St. James' Park,Newcastle upon Tyne,52305,static\stadiums\St. James' Park.jpg
+14,City Ground,Nottingham,30332,static\stadiums\City Ground.jpg
+15,Tottenham Hotspur Stadium,London,62850,static\stadiums\Tottenham Hotspur Stadium.jpg
+16,London Stadium,London,66000,static\stadiums\London Stadium.jpg
+17,Molineux Stadium,Wolverhampton,32050,static\stadiums\Molineux Stadium.jpg
+18,King Power Stadium,Leicester,40000,static\stadiums\King Power Stadium.jpg
+19,Portman Road,Ipswich,30311,static\stadiums\Portman Road.jpg
+20,St Mary's Stadium,Southampton,32505,static\stadiums\St Mary's Stadium.jpg

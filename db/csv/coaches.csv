@@ -1,0 +1,21 @@
+team_id,name,nationality,coach_img
+11,Pep Guardiola,Spanish,static/coaches/pep.jpg
+1,Mikel Arteta,Spanish,static/coaches/artita.jpg
+10,Arne Slot,Nethelands,static/coaches/slot.jpeg
+12,Ruben Filipe,Portuguese,static/coaches/filip.jpeg
+6,Enzo Maresca,Argentinian,static/coaches/marcesa.jpeg
+13,Eddie Howe,English,static/coaches/edie.jpg
+2,Unai Emery,Spanish,static/coaches/emery.jpg
+5,Fabian H�rzeler,Italian,static/coaches/h�rzeler.jpeg
+16,Julen Lopetegui,Spanish,static/coaches/lopetegui.jpeg
+18,Ruud Van Nistelrooij,Northlands,static/coaches/nistelrooy.jpeg
+4,Thomas Frank,Danish,static/coaches/frank.jpg
+9,Marco Silva,Portuguese,static/coaches/silva.jpg
+17,Gary O'Neil,English,static/coaches/oneil.jpg
+7,Oliver Glasner,English,static/coaches/glasner.jpeg
+3,Andoni Iraola,Spanish,static/coaches/aroela.jpg
+14,Nuno Santo,Portuguese,static/coaches/santo.jpeg
+8,Sean Dyche,English,static/coaches/dyche.jpg
+19,Kieran Mckenna,Belgian,static/coaches/mkenna.jpeg
+15,Ange Postecoglou,Australian,static/coaches/Postecoglou.jpeg
+20,Luton Edwards,English,static/coaches/lutun.jpg

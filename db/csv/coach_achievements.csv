@@ -1,0 +1,7 @@
+name,coach_id,ach_image
+Premier League Title,1,static/achievements/coach_achievements/premier_league_title.jpg
+FA Cup Winner,1,static/achievements/coach_achievements/fa_cup_winner.jpg
+Champions League Qualification,2,static/achievements/coach_achievements/cl_qualification.jpg
+Rejuvenated Club Record,3,static/achievements/coach_achievements/rejuvenated_club_record.jpg
+Domestic Double,4,static/achievements/coach_achievements/domestic_double.jpg
+European Super Cup Winner,5,static/achievements/coach_achievements/european_super_cup_winner.jpg
