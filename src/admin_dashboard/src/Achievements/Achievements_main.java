@@ -7,73 +7,73 @@ public class Achievements_main extends javax.swing.JPanel {
 
     public Achievements_main() {
         initComponents();
-        removeButtonDefault(addMatch);
-        removeButtonDefault(viewMatch);
-        removeButtonDefault(modifyMatch);
-        removeButtonDefault(removeMatch);
+        removeButtonDefault(addAchievement);
+        removeButtonDefault(viewAchievements);
+        removeButtonDefault(modifyAchievements);
+        removeButtonDefault(removeAcheivement);
     }
 
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        addMatch = new javax.swing.JButton();
-        modifyMatch = new javax.swing.JButton();
-        removeMatch = new javax.swing.JButton();
-        viewMatch = new javax.swing.JButton();
+        addAchievement = new javax.swing.JButton();
+        modifyAchievements = new javax.swing.JButton();
+        removeAcheivement = new javax.swing.JButton();
+        viewAchievements = new javax.swing.JButton();
         jLabel1 = new javax.swing.JLabel();
 
         setBackground(new java.awt.Color(55, 0, 60));
         setMinimumSize(new java.awt.Dimension(1155, 525));
         setLayout(null);
 
-        addMatch.setFont(new java.awt.Font("Segoe UI Variable", 1, 18)); // NOI18N
-        addMatch.setText("Add New Achievement");
-        addMatch.setBorder(null);
-        addMatch.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
-        addMatch.addActionListener(new java.awt.event.ActionListener() {
+        addAchievement.setFont(new java.awt.Font("Segoe UI Variable", 1, 18)); // NOI18N
+        addAchievement.setText("Add New Achievement");
+        addAchievement.setBorder(null);
+        addAchievement.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        addAchievement.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                addMatchActionPerformed(evt);
+                addAchievementActionPerformed(evt);
             }
         });
-        add(addMatch);
-        addMatch.setBounds(70, 210, 200, 70);
+        add(addAchievement);
+        addAchievement.setBounds(70, 210, 200, 70);
 
-        modifyMatch.setFont(new java.awt.Font("Segoe UI Variable", 1, 18)); // NOI18N
-        modifyMatch.setText("Modify Achievement");
-        modifyMatch.setBorder(null);
-        modifyMatch.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
-        modifyMatch.addActionListener(new java.awt.event.ActionListener() {
+        modifyAchievements.setFont(new java.awt.Font("Segoe UI Variable", 1, 18)); // NOI18N
+        modifyAchievements.setText("Modify Achievement");
+        modifyAchievements.setBorder(null);
+        modifyAchievements.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        modifyAchievements.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                modifyMatchActionPerformed(evt);
+                modifyAchievementsActionPerformed(evt);
             }
         });
-        add(modifyMatch);
-        modifyMatch.setBounds(600, 210, 200, 70);
+        add(modifyAchievements);
+        modifyAchievements.setBounds(600, 210, 200, 70);
 
-        removeMatch.setFont(new java.awt.Font("Segoe UI Variable", 1, 18)); // NOI18N
-        removeMatch.setText("Remove Achievement");
-        removeMatch.setBorder(null);
-        removeMatch.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
-        removeMatch.addActionListener(new java.awt.event.ActionListener() {
+        removeAcheivement.setFont(new java.awt.Font("Segoe UI Variable", 1, 18)); // NOI18N
+        removeAcheivement.setText("Remove Achievement");
+        removeAcheivement.setBorder(null);
+        removeAcheivement.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        removeAcheivement.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                removeMatchActionPerformed(evt);
+                removeAcheivementActionPerformed(evt);
             }
         });
-        add(removeMatch);
-        removeMatch.setBounds(860, 210, 200, 70);
+        add(removeAcheivement);
+        removeAcheivement.setBounds(860, 210, 200, 70);
 
-        viewMatch.setFont(new java.awt.Font("Segoe UI Variable", 1, 18)); // NOI18N
-        viewMatch.setText("View Achievements");
-        viewMatch.setBorder(null);
-        viewMatch.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
-        viewMatch.addActionListener(new java.awt.event.ActionListener() {
+        viewAchievements.setFont(new java.awt.Font("Segoe UI Variable", 1, 18)); // NOI18N
+        viewAchievements.setText("View Achievements");
+        viewAchievements.setBorder(null);
+        viewAchievements.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        viewAchievements.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                viewMatchActionPerformed(evt);
+                viewAchievementsActionPerformed(evt);
             }
         });
-        add(viewMatch);
-        viewMatch.setBounds(330, 210, 200, 70);
+        add(viewAchievements);
+        viewAchievements.setBounds(330, 210, 200, 70);
 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Assets/transparentBackground.png"))); // NOI18N
@@ -82,21 +82,21 @@ public class Achievements_main extends javax.swing.JPanel {
         jLabel1.setBounds(0, 0, 1140, 530);
     }// </editor-fold>//GEN-END:initComponents
 
-    private void addMatchActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_addMatchActionPerformed
+    private void addAchievementActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_addAchievementActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_addMatchActionPerformed
+    }//GEN-LAST:event_addAchievementActionPerformed
 
-    private void modifyMatchActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_modifyMatchActionPerformed
+    private void modifyAchievementsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_modifyAchievementsActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_modifyMatchActionPerformed
+    }//GEN-LAST:event_modifyAchievementsActionPerformed
 
-    private void removeMatchActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_removeMatchActionPerformed
+    private void removeAcheivementActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_removeAcheivementActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_removeMatchActionPerformed
+    }//GEN-LAST:event_removeAcheivementActionPerformed
 
-    private void viewMatchActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_viewMatchActionPerformed
+    private void viewAchievementsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_viewAchievementsActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_viewMatchActionPerformed
+    }//GEN-LAST:event_viewAchievementsActionPerformed
 
         private void removeButtonDefault(JComponent component) {
         if (component instanceof AbstractButton) {
@@ -109,10 +109,10 @@ public class Achievements_main extends javax.swing.JPanel {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton addMatch;
+    private javax.swing.JButton addAchievement;
     private javax.swing.JLabel jLabel1;
-    private javax.swing.JButton modifyMatch;
-    private javax.swing.JButton removeMatch;
-    private javax.swing.JButton viewMatch;
+    private javax.swing.JButton modifyAchievements;
+    private javax.swing.JButton removeAcheivement;
+    private javax.swing.JButton viewAchievements;
     // End of variables declaration//GEN-END:variables
 }

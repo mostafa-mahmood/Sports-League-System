@@ -1,5 +1,5 @@
 package Teams;
-import Teams.View_teams_panel_ops;
+
 import java.awt.Color;
 import javax.swing.AbstractButton;
 import javax.swing.JComponent;
