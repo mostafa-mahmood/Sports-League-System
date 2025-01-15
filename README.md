@@ -9,6 +9,7 @@ A database-driven desktop application for managing Football leagues. Handles tea
 - Read all entities data
 - Log new match record
 - Modify and fix erronous records
+#### Admin Authentication
 #### Provides data about teams, players, matches, performance, referees, stadiums, coaches and presidents
 #### Tracks teams info, their match results and current points
 #### Tracks Players Performance and Statistics
